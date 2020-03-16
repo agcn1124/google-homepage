@@ -47,7 +47,13 @@
     display: block;
 }
 
-#gsearch, #lucky{
+#gsearch, {
 	margin-left: auto;
-	    margin-right: auto;
+	margin-right: auto;
+}
+
+.flexbtns {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
