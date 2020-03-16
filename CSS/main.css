@@ -43,6 +43,11 @@
     margin-left: auto;
     margin-right: auto;
     padding-top: 300px;
-    padding-b
+    padding-bottom:10px;
     display: block;
+}
+
+#gsearch, #lucky{
+	margin-left: auto;
+	    margin-right: auto;
 }
