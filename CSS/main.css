@@ -1,14 +1,14 @@
 /* css comment */
 #search-the-web {
     border-radius: 9999px;
-    padding-top: 0.75em;
-    padding-bottom: 0.75em;
-    border-width: 0.125em;
-    border-color: gray;
-    border-style: solid;
-    display: block;
-    margin-left: 350px;
-    margin-right: 1000px;
+        padding-top: 0.75em;
+        padding-bottom: 0.75em;
+        border-width: 0.125em;
+        border-color: gray;
+        border-style: solid;
+        display: block;
+        margin-left: 430px;
+        outline: none;
 }
 
 .input-reset{
@@ -18,7 +18,7 @@
 
 .input-icons i { 
             position: absolute; 
-            margin-left:350px;
+            margin-left:1230px;
         } 
           
         .input-icons { 
@@ -32,9 +32,9 @@
         } 
           
         .input-field { 
-            width: 100%; 
-            padding: 10px; 
-            text-align: center; 
+            width: 50%;
+                padding: 10px;
+                text-align: left;
         } 
 
 
@@ -42,5 +42,6 @@
     margin-left: auto;
     margin-right: auto;
     padding-top: 300px;
+    padding-bottom: 20px;
     display: block;
 }
