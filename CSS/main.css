@@ -1,0 +1,46 @@
+/* css comment */
+#search-the-web {
+    border-radius: 9999px;
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    border-width: 0.125em;
+    border-color: gray;
+    border-style: solid;
+    display: block;
+    margin-left: 350px;
+    margin-right: 1000px;
+}
+
+.input-reset{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.input-icons i { 
+            position: absolute; 
+            margin-left:350px;
+        } 
+          
+        .input-icons { 
+            width: 100%; 
+            margin-bottom: 10px; 
+        } 
+          
+        .icon { 
+            padding: 10px; 
+            min-width: 40px; 
+        } 
+          
+        .input-field { 
+            width: 100%; 
+            padding: 10px; 
+            text-align: center; 
+        } 
+
+
+#google-logo {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 300px;
+    display: block;
+}
